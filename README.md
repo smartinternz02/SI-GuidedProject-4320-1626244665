@@ -1,3 +1,5 @@
 # SI-GuidedProject-4320-1626244665
 # Urban-water-quality-prediction-
 Urban water quality is of great importance to our daily lives. Prediction of urban water quality help control water pollution and protect human health . In this work, we forecast the water quality of a station over the next few hours, using a multitask, multi-view learning method to fuse multiple datasets from different domains. In particular, our learning model comprises two alignments . The first alignment is the space-temporal view alignment, which combines local spatial and temporal information of each station. The second alignment is the prediction alignment among stations, which captures their spatial correlations and performs co-predictions by incorporating these correlations. Extensive experiments on real-world datasets demonstrate the effectiveness of our approach.
+![image](https://user-images.githubusercontent.com/42865488/127763539-c7eb7eed-7c3b-4048-9c49-f65cd1db70dd.png)
+![image](https://user-images.githubusercontent.com/42865488/127763550-035c8f5f-c9c6-4227-9017-680020d158dd.png)
